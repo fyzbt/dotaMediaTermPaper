@@ -1,50 +1,50 @@
-,created_year,location,manager,manager_from,name,points,rank,region,total_earnings
-0,Organization: 2003Dota 2: 2012-02-16,USA, Joshua Schmidt,USA,compLexity Gaming,135,19,North America,825959
-1,Organization: 1999Dota 2: 2011-10-24,USA, Phillip Aram,USA,Evil Geniuses,1335,11,North America,15144669
-2,Organization: 2015-10-07Dota 2: 2017-09-13,USA, Josh Arkin,USA,Immortals,90,21,North America,47500
-3,Organization: 2006Dota 2: 2017-09-26,USA, Kodiak Shroyer,USA,OpTic Gaming,1800,9,North America,495800
-4,,USA, KBBQ,USA,VGJ.Storm,,,North America,342000
-5,,USA, Lizzy Russell,USA,Wheel Whreck While Whistling,,,North America,21094
-6,,Peru, Christian Roque,Peru,Infamous,,,South America,378816
-7,,Brazil, Giovanni Federici,Brazil,INTZ eSports,,,South America,3945
-8,,Brazil, Rafael Muniz,Brazil,Midas Club,,,South America,9841
-9,,Brazil, Barbara Bornia,Brazil,paiN Gaming,,,South America,556484
-10,,Brazil, Gustavo Santana,Brazil,SG e-sports,,,South America,264374
-11,,Peru, Carlos Planella,Peru,Thunder Predator,,,South America,10000
-12,,Sweden, Marcus Lundberg,Finland,Alliance,,,Europe,3407569
-13,,Russia,,,Elements Pro,,,Europe,
-14,,Europe,,,Going in,,,Europe,
-15,,United Kingdom,,,Mad Lads,,,Europe,
-16,2015-10-31,Europe, Evany Chang,USA,OG,930,14,Europe,6345927
-17,,Denmark, David Pella,Germany,Singularity Esports,,,Europe,8250
-18,,Poland, Michał  Jackowski,Poland,Team Kinguin,,,Europe,81044
-19,2012-12-06,Netherlands, Mohamed Morad,Germany,Team Liquid,7095,3,Europe,14970500
-20,2014-08-27,Europe, Cyborgmatt,United Kingdom,Team Secret,4800,4,Europe,5694080
-21,,Europe, Ludwig Sandgren,Sweden,The Final Tribe,,,Europe,52000
-22,,Russia, Andrey Lyabakin,Russia,Double Dimension,,,CIS,10500
-23,2018-02-05,Russia, Sergey Bykovsky,Ukraine,FlyToMoon,675,15,CIS,125000
-24,,United Kingdom,,,Gambit Esports,,,CIS,
-25,2010-10-22,Ukraine, Igor Sydorenko,Ukraine,Natus Vincere,1199,13,CIS,3925542
-26,,Russia, Victor Sharoyko,Germany,SFTe-sports,,,CIS,4900
-27,,Russia, Dmitry Belov,Russia,Team Empire,,,CIS,1967240
-28,,Russia, Ruslana Berest,Ukraine,Team Spirit,,,CIS,197079
-29,Organization founded in 2012Dota 2 division started 2014-10-05,Russia, Alexandr Kazannikov,Russia,Vega Squadron,90,21,CIS,495728
-30,2003,Russia, Dmitriy Shishkov,Russia,Virtus.pro,10347,1,CIS,6161758
-31,,China,,,CDEC Gaming,,,China,
-32,,China, Tan Ran,China,Echo Gaming,,,China,
-33,,China,,,Eclipse,,,China,
-34,,China, Zheng Feixu,China,EHOME,,,China,3272993
-35,,China, Zheng Feixu,China,EHOME.Immortal,,,China,1565
-36,,China, Lu Dongnan,China,iG Vitality,,,China,942633
-37,2011-08-02,China, Li Pan,China,Invictus Gaming,0,0,China,4775939
-38,,China, Fyms,China,Keen Gaming,,,China,173845
-39,,China, Fyms,China,Keen Gaming.Luminous,,,China,11258
-40,2009,China, Pan Fei,China,PSG.LGD,7332,2,China,7948933
-41,2016-09-17,China, Pan Fei,China,LGD.Forever Young,199,18,China,3001381
-42,2014-02-13,China, Zhu Chao,China,Newbee,2445,7,China,12317752
-43,,China,,,Newbee Young,,,China,
-44,,China,,,Sun Gaming,,,China,
-45,,Macau, Wei Wenru 韦文儒,China,Taichi Gaming,,,China,
-46,,China, Yu Erkang,China,Team MAX,,,China,28070
-47,2016-09-17,China, Xu Xiaoyun,China,VGJ.Thunder,1935,8,China,872462
-48,2012-09-21,China, Xu Xiaoyun,China,Vici Gaming,2835,6,China,5421798
+,name,search_count,Unnamed: 0,created_year,location,manager,manager_from,points,rank,region,total_earnings
+0,compLexity Gaming,2390000,0,Organization: 2003Dota 2: 2012-02-16,USA, Joshua Schmidt,USA,135.0,19.0,North America,825959.0
+1,Evil Geniuses,675000,1,Organization: 1999Dota 2: 2011-10-24,USA, Phillip Aram,USA,1335.0,11.0,North America,15144669.0
+2,Immortals,3260000,2,Organization: 2015-10-07Dota 2: 2017-09-13,USA, Josh Arkin,USA,90.0,21.0,North America,47500.0
+3,OpTic Gaming,2390000,3,Organization: 2006Dota 2: 2017-09-26,USA, Kodiak Shroyer,USA,1800.0,9.0,North America,495800.0
+4,VGJ.Storm,2780000,4,,USA, KBBQ,USA,,,North America,342000.0
+5,Wheel Whreck While Whistling,26400,5,,USA, Lizzy Russell,USA,,,North America,21094.0
+6,Infamous,4610000,6,,Peru, Christian Roque,Peru,,,South America,378816.0
+7,INTZ eSports,957000,7,,Brazil, Giovanni Federici,Brazil,,,South America,3945.0
+8,Midas Club,1860000,8,,Brazil, Rafael Muniz,Brazil,,,South America,9841.0
+9,paiN Gaming,3760000,9,,Brazil, Barbara Bornia,Brazil,,,South America,556484.0
+10,SG e-sports,408000,10,,Brazil, Gustavo Santana,Brazil,,,South America,264374.0
+11,Thunder Predator,667000,11,,Peru, Carlos Planella,Peru,,,South America,10000.0
+12,Alliance,44200000,12,,Sweden, Marcus Lundberg,Finland,,,Europe,3407569.0
+13,Elements Pro,13300000,13,,Russia,,,,,Europe,
+14,Going in,46200000,14,,Europe,,,,,Europe,
+15,Mad Lads,496000,15,,United Kingdom,,,,,Europe,
+16,OG,44600000,16,2015-10-31,Europe, Evany Chang,USA,930.0,14.0,Europe,6345927.0
+17,Singularity Esports,982000,17,,Denmark, David Pella,Germany,,,Europe,8250.0
+18,Team Kinguin,2920000,18,,Poland, Michał  Jackowski,Poland,,,Europe,81044.0
+19,Team Liquid,30000000,19,2012-12-06,Netherlands, Mohamed Morad,Germany,7095.0,3.0,Europe,14970500.0
+20,Team Secret,44100000,20,2014-08-27,Europe, Cyborgmatt,United Kingdom,4800.0,4.0,Europe,5694080.0
+21,The Final Tribe,2950000,21,,Europe, Ludwig Sandgren,Sweden,,,Europe,52000.0
+22,Double Dimension,3720000,22,,Russia, Andrey Lyabakin,Russia,,,CIS,10500.0
+23,FlyToMoon,2780000,23,2018-02-05,Russia, Sergey Bykovsky,Ukraine,675.0,15.0,CIS,125000.0
+24,Gambit Esports,1050000,24,,United Kingdom,,,,,CIS,
+25,Natus Vincere,224000,25,2010-10-22,Ukraine, Igor Sydorenko,Ukraine,1199.0,13.0,CIS,3925542.0
+26,SFTe-sports,2780000,26,,Russia, Victor Sharoyko,Germany,,,CIS,4900.0
+27,Team Empire,43400000,27,,Russia, Dmitry Belov,Russia,,,CIS,1967240.0
+28,Team Spirit,44400000,28,,Russia, Ruslana Berest,Ukraine,,,CIS,197079.0
+29,Vega Squadron,184000,29,Organization founded in 2012Dota 2 division started 2014-10-05,Russia, Alexandr Kazannikov,Russia,90.0,21.0,CIS,495728.0
+30,Virtus.pro,2850000,30,2003,Russia, Dmitriy Shishkov,Russia,10347.0,1.0,CIS,6161758.0
+31,CDEC Gaming,2290000,31,,China,,,,,China,
+32,Echo Gaming,3230000,32,,China, Tan Ran,China,,,China,
+33,Eclipse,24600000,33,,China,,,,,China,
+34,EHOME,2970000,34,,China, Zheng Feixu,China,,,China,3272993.0
+35,EHOME.Immortal,2780000,35,,China, Zheng Feixu,China,,,China,1565.0
+36,iG Vitality,154000,36,,China, Lu Dongnan,China,,,China,942633.0
+37,Invictus Gaming,2030000,37,2011-08-02,China, Li Pan,China,0.0,0.0,China,4775939.0
+38,Keen Gaming,2370000,38,,China, Fyms,China,,,China,173845.0
+39,Keen Gaming.Luminous,51400,39,,China, Fyms,China,,,China,11258.0
+40,PSG.LGD,2790000,40,2009,China, Pan Fei,China,7332.0,2.0,China,7948933.0
+41,LGD.Forever Young,197000,41,2016-09-17,China, Pan Fei,China,199.0,18.0,China,3001381.0
+42,Newbee,2820000,42,2014-02-13,China, Zhu Chao,China,2445.0,7.0,China,12317752.0
+43,Newbee Young,431000,43,,China,,,,,China,
+44,Sun Gaming,8020000,44,,China,,,,,China,
+45,Taichi Gaming,2020000,45,,Macau, Wei Wenru 韦文儒,China,,,China,
+46,Team MAX,45600000,46,,China, Yu Erkang,China,,,China,28070.0
+47,VGJ.Thunder,2780000,47,2016-09-17,China, Xu Xiaoyun,China,1935.0,8.0,China,872462.0
+48,Vici Gaming,2130000,48,2012-09-21,China, Xu Xiaoyun,China,2835.0,6.0,China,5421798.0
